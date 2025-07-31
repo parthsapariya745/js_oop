@@ -1,3 +1,5 @@
+// single inheritance example
+
 class person {
     constructor(name, age) {
         this.name = name
